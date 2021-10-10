@@ -12,3 +12,10 @@ color:#33485e
 #content {
     font-family: 'Cormorant', serif;
 }
+
+.color-palette {
+    background-color: white;
+    border-width: 2px;
+    border-color: black;
+    padding: 10px;
+}

@@ -1,4 +1,14 @@
+/* font-family: 'Cormorant', serif; font-family: 'Lato', sans-serif; */
+
 h1 {
 font-size: 36px;
 color:#33485e
+}
+
+#headlines {
+    font-family: 'Lato', sans-serif;
+}
+
+#content {
+    font-family: 'Cormorant', serif;
 }

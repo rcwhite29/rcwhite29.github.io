@@ -1,47 +1,48 @@
 /* font-family: 'Cormorant', serif; font-family: 'Lato', sans-serif; */
 
 
-#headlines {
+.headlines {
     font-family: 'Lato', sans-serif;
 }
 
-#content {
+.content {
     font-family: 'Cormorant', serif;
+    font-weight: 400;
 }
 
-div.color-palette {
+#color-palette {
     background-color: white;
     border-width: 2px;
     border-color: black;
     padding: 10px;
 }
 
-div#color {
+.color {
     height: 150px;
     width: 150px;
 }
 
-div#color-1 {
+.color-1 {
     background-color: #303436;
 }
 
-div#color-2 {
+.color-2 {
     background-color: #656567;
 }
 
-div#color-3 {
+.color-3 {
     background-color: #f5f5f5;
 }
 
-div#color-4 {
+.color-4 {
     background-color: #ffd18c;
 }
 
-div#color-5 {
+.color-5 {
     background-color: #004225;
 }
 
-div#img {
-    width: 300px;
+.img {
+    width: 150px;
     margin: 15px;
 }

@@ -1,9 +1,5 @@
 /* font-family: 'Cormorant', serif; font-family: 'Lato', sans-serif; */
 
-h1 {
-font-size: 36px;
-color:#33485e
-}
 
 #headlines {
     font-family: 'Lato', sans-serif;
@@ -43,4 +39,9 @@ div#color-4 {
 
 div#color-5 {
     background-color: #004225;
+}
+
+div#img {
+    width: 300px;
+    margin: 15px;
 }

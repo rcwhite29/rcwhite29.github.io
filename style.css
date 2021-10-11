@@ -13,9 +13,34 @@ color:#33485e
     font-family: 'Cormorant', serif;
 }
 
-.color-palette {
+div.color-palette {
     background-color: white;
     border-width: 2px;
     border-color: black;
     padding: 10px;
+}
+
+div#color {
+    height: 150px;
+    width: 150px;
+}
+
+div#color-1 {
+    background-color: #303436;
+}
+
+div#color-2 {
+    background-color: #656567;
+}
+
+div#color-3 {
+    background-color: #f5f5f5;
+}
+
+div#color-4 {
+    background-color: #ffd18c;
+}
+
+div#color-5 {
+    background-color: #004225;
 }

@@ -30,6 +30,8 @@
      font-family: 'Lato', sans-serif;
      font-weight: 900;
      font-size: 55px;
+     text-decoration-line: underline;
+     text-decoration-color: #303436;
 }
 
 #tagline {
@@ -37,4 +39,6 @@
     font-family: 'Cormorant', serif;
     font-weight: 700;
     font-size: 35px;
+    text-decoration-line: underline;
+    text-decoration-color: #303436;
 }

@@ -1,21 +1,75 @@
 /* font-family: 'Cormorant', serif; font-family: 'Lato', sans-serif; */
 
+body {
+    background-color: #f5f5f5;
+}
+
 .headlines {
     font-family: 'Lato', sans-serif;
+    color: #303436;
 }
 
 .content {
     font-family: 'Cormorant', serif;
-    font-weight: 400;
+    font-weight: 575;
+    color: #303436;
 }
 
-#color-palette {
-    background-color: white;
-    border-width: 2px;
-    border-color: black;
-    padding: 10px;
+#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+	}
+
+#horizontal-list li {
+	display: inline;
+    }
+
+.li {
+    font-size: 20px;
 }
 
+.link:hover {
+    color: #004225;
+}
+
+.link:visited {
+    color: #004225;
+}
+/* Homepage*/
+
+.homepage {
+    width: 50%;
+    margin: auto;
+}
+
+#about {
+    background-color: #ffd18c;
+    border-radius: 25px;
+    width: auto;
+    height: 40px;
+    padding-left: 20px;
+}
+
+#quote {
+    text-decoration-line: underline;
+    text-decoration-color: #004225;
+    text-decoration-style: solid;
+}
+
+#selfportrait {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* resume*/
+/* copy*/
+/* photography*/
 .color {
     height: 150px;
     width: 150px;
@@ -39,9 +93,4 @@
 
 .color-5 {
     background-color: #004225;
-}
-
-.img {
-    width: 300px;
-    margin: 15px;
 }

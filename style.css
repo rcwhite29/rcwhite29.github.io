@@ -31,6 +31,10 @@ body {
     font-size: 20px;
 }
 
+.link {
+    text-decoration: none;
+}
+
 .link:link {
     color: #303436;
 }
@@ -115,6 +119,10 @@ body {
     padding-left: 30%;
 }
 
+.cliplink{
+    text-decoration: none;
+}
+
 .cliplink:link {
     color: #303436;
 }
@@ -127,11 +135,40 @@ body {
     color: #ffd18c;
 }
 /* photography*/
+
+.photo {
+    width: 75%;
+    margin: auto;
+}
 .color {
     height: 150px;
     width: 150px;
 }
 
+#pp {
+    background-color: #ffd18c;
+    border-radius: 25px;
+    width: auto;
+    height: 40px;
+    padding-left: 20px;
+}
+
+.ppintro {
+    text-align: center;
+}
+
+.pics {
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
+
+.pictureclips {
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 20px;
+}
+/* stuff */
 .color-1 {
     background-color: #303436;
 }

@@ -49,6 +49,10 @@ body {
 
 
 /* Homepage*/
+#banner {
+    width: 100%;
+    height: auto;
+}
 
 .homepage {
     width: 50%;

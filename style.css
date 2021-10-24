@@ -60,7 +60,7 @@ body {
     border-radius: 25px;
     width: auto;
     height: 40px;
-    padding-left: 20px;
+    text-align: center;
 }
 
 #quote {
@@ -80,6 +80,64 @@ body {
     margin-bottom: 20px;
 }
 /* resume*/
+
+.resume {
+    width: 50%;
+    margin: auto;
+}
+
+#rr {
+    background-color: #ffd18c;
+    border-radius: 25px;
+    width: auto;
+    height: 40px;
+    text-align: center;
+}
+
+#tagline {
+    text-align: center;
+}
+
+#sociallist {
+    min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#sociallist li {
+    display: inline;
+}
+
+.sociallink{
+    text-decoration: none;
+}
+
+.sociallink:link {
+    color: #303436;
+}
+
+.sociallink:visited {
+    color: #303436;
+}
+
+.sociallink:hover {
+    color: #ffd18c;
+}
+
+.social {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section {
+    background-color: #ffd18c;
+    border-radius: 25px;
+    width: auto;
+    height: 40px;
+    padding-left: 20px;
+}
 /* copy*/
 
 .copy {
@@ -92,7 +150,7 @@ body {
     border-radius: 25px;
     width: auto;
     height: 40px;
-    padding-left: 20px;
+    text-align: center;
 }
 
 #pintro {
@@ -150,7 +208,7 @@ body {
     border-radius: 25px;
     width: auto;
     height: 40px;
-    padding-left: 20px;
+    text-align: center;
 }
 
 .ppintro {

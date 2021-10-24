@@ -259,23 +259,3 @@ body {
     flex-wrap: wrap;
     grid-gap: 20px;
 }
-/* stuff */
-.color-1 {
-    background-color: #303436;
-}
-
-.color-2 {
-    background-color: #656567;
-}
-
-.color-3 {
-    background-color: #f5f5f5;
-}
-
-.color-4 {
-    background-color: #ffd18c;
-}
-
-.color-5 {
-    background-color: #004225;
-}
